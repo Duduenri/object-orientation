@@ -1,0 +1,12 @@
+{
+  "name": "bankdudu",
+  "version": "1.0.0",
+  "description": "Projetinho de banco fml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dudu",
+  "license": "ISC",
+  "type": "module"
+}
